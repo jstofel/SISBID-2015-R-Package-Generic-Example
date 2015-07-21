@@ -1,0 +1,12 @@
+Package: ToyPackage
+Type: Package
+Title: Plots a Circle
+Version: 0.1
+Date: 2015-07-20
+Author: J Stofel
+Maintainer: J Stofel <juli@scharp.org>
+Description: The description should contain at least
+  2 complete sentences. The sentences should say what the
+  package does.
+License: MIT + file LICENSE
+LazyData: TRUE

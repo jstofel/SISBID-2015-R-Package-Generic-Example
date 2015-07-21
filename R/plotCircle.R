@@ -1,7 +1,7 @@
 #' Plot a circle of radius r
 #'
 #' This would be the more detailed description, if we
-#' needed one.
+#' needed one.  I'm adding a bit to see how it works in git.
 #'
 #' @param r The radius of the circle to
 #'    be plotted. Note the indentation on the
